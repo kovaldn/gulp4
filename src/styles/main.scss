@@ -1,0 +1,13 @@
+body{
+    margin: 70px;
+}
+p{
+    color: #212121;
+    span {
+        font-size: 38px;
+        font-weight: bold;
+        color: #602584;
+    }
+}
+
+@import 'buttons';
